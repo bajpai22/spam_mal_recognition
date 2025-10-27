@@ -55,11 +55,15 @@ Convert text to numerical format using TF-IDF Vectorization
 
 Trained multiple ML models and compared accuracies:
 
+
 Logistic Regression → 98.9% Accuracy 🏆
+
 
 Naive Bayes → 97.6%
 
+
 Random Forest → 96.8%
+
 
 6️⃣ Real-Time Testing
 
